@@ -1,0 +1,112 @@
+{
+  "offset": 0,
+  "sonraki_id": 8,
+  "urunler": [
+    {
+      "id": 3,
+      "url": "https://www.superstep.com.tr/urun/new-balance-9060-unisex-siyah-spor-ayakkabi/u90605su/",
+      "baslik": "New Balance 9060 Unisex Siyah Spor Ayakkabı",
+      "para": "TRY",
+      "fiyat": 8792.0,
+      "ilk_fiyat": 8792.0,
+      "en_dusuk": 8792.0,
+      "stokta": true,
+      "hedef": null,
+      "hedef_bildirildi": false,
+      "eklendi": "2026-11-24T08:02:26+00:00",
+      "son_kontrol": "2026-11-24T11:03:55+00:00",
+      "hata_sayisi": 0,
+      "gecmis": [
+        [
+          "2026-11-24T08:02:26+00:00",
+          8792.0
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.superstep.com.tr/urun/new-balance-530-unisex-beyaz-spor-ayakkabi/u530klb-7/",
+      "baslik": "New Balance 530 Unisex Beyaz Spor Ayakkabı",
+      "para": "TRY",
+      "fiyat": 7499.0,
+      "ilk_fiyat": 7499.0,
+      "en_dusuk": 7499.0,
+      "stokta": true,
+      "hedef": null,
+      "hedef_bildirildi": false,
+      "eklendi": "2026-11-24T11:03:52+00:00",
+      "son_kontrol": "2026-11-24T11:03:52+00:00",
+      "hata_sayisi": 0,
+      "gecmis": [
+        [
+          "2026-11-24T11:03:52+00:00",
+          7499.0
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.superstep.com.tr/urun/new-balance-530-lifestyle-unisex-beyaz-spor-ayakkabi/mr530ema-124/",
+      "baslik": "New Balance 530 Lifestyle Unisex Beyaz Spor Ayakkabı",
+      "para": "TRY",
+      "fiyat": 7499.0,
+      "ilk_fiyat": 7499.0,
+      "en_dusuk": 7499.0,
+      "stokta": true,
+      "hedef": null,
+      "hedef_bildirildi": false,
+      "eklendi": "2026-11-24T11:03:53+00:00",
+      "son_kontrol": "2026-11-24T11:03:53+00:00",
+      "hata_sayisi": 0,
+      "gecmis": [
+        [
+          "2026-11-24T11:03:53+00:00",
+          7499.0
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.superstep.com.tr/urun/new-balance-530-lifestyle-kadin-gri-spor-ayakkabi/u5303ir-1/",
+      "baslik": "New Balance 530 Lifestyle Kadın Gri Spor Ayakkabı",
+      "para": "TRY",
+      "fiyat": 6999.0,
+      "ilk_fiyat": 6999.0,
+      "en_dusuk": 6999.0,
+      "stokta": true,
+      "hedef": null,
+      "hedef_bildirildi": false,
+      "eklendi": "2026-11-24T11:03:53+00:00",
+      "son_kontrol": "2026-11-24T11:03:53+00:00",
+      "hata_sayisi": 0,
+      "gecmis": [
+        [
+          "2026-11-24T11:03:53+00:00",
+          6999.0
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.superstep.com.tr/urun/new-balance-530-unisex-gri-spor-ayakkabi/u530kla-1/",
+      "baslik": "New Balance 530 Unisex Gri Spor Ayakkabı",
+      "para": "TRY",
+      "fiyat": 7499.0,
+      "ilk_fiyat": 7499.0,
+      "en_dusuk": 7499.0,
+      "stokta": true,
+      "hedef": null,
+      "hedef_bildirildi": false,
+      "eklendi": "2026-11-24T11:03:54+00:00",
+      "son_kontrol": "2026-11-24T11:03:54+00:00",
+      "hata_sayisi": 0,
+      "gecmis": [
+        [
+          "2026-11-24T11:03:54+00:00",
+          7499.0
+        ]
+      ]
+    }
+  ],
+  "ntfy_since": "cnvsSmQwMWVg"
+}
