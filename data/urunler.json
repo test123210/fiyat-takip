@@ -14,7 +14,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T08:02:26+00:00",
-      "son_kontrol": "2026-11-24T11:40:26+00:00",
+      "son_kontrol": "2026-11-24T11:44:43+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -28,18 +28,22 @@
       "url": "https://www.superstep.com.tr/urun/new-balance-530-unisex-beyaz-spor-ayakkabi/u530klb-7/",
       "baslik": "New Balance 530 Unisex Beyaz Spor Ayakkabı",
       "para": "TRY",
-      "fiyat": 9999.0,
+      "fiyat": 7499.0,
       "ilk_fiyat": 7499.0,
       "en_dusuk": 7499.0,
       "stokta": true,
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:52+00:00",
-      "son_kontrol": "2026-11-24T11:40:26+00:00",
+      "son_kontrol": "2026-11-24T11:44:43+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
           "2026-11-24T11:03:52+00:00",
+          7499.0
+        ],
+        [
+          "2026-11-24T11:44:43+00:00",
           7499.0
         ]
       ]
@@ -56,7 +60,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:53+00:00",
-      "son_kontrol": "2026-11-24T11:40:26+00:00",
+      "son_kontrol": "2026-11-24T11:44:44+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -77,7 +81,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:53+00:00",
-      "son_kontrol": "2026-11-24T11:40:27+00:00",
+      "son_kontrol": "2026-11-24T11:44:44+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -98,7 +102,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:54+00:00",
-      "son_kontrol": "2026-11-24T11:40:27+00:00",
+      "son_kontrol": "2026-11-24T11:44:44+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -119,7 +123,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:40:25+00:00",
-      "son_kontrol": "2026-11-24T11:40:25+00:00",
+      "son_kontrol": "2026-11-24T11:44:45+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
