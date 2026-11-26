@@ -14,7 +14,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T08:02:26+00:00",
-      "son_kontrol": "2026-11-26T05:02:01+00:00",
+      "son_kontrol": "2026-11-26T16:41:30+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -35,7 +35,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:52+00:00",
-      "son_kontrol": "2026-11-26T05:02:01+00:00",
+      "son_kontrol": "2026-11-26T16:41:30+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -60,7 +60,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:53+00:00",
-      "son_kontrol": "2026-11-26T05:02:02+00:00",
+      "son_kontrol": "2026-11-26T16:41:31+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -81,7 +81,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:53+00:00",
-      "son_kontrol": "2026-11-26T05:02:02+00:00",
+      "son_kontrol": "2026-11-26T16:41:31+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -102,7 +102,7 @@
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:03:54+00:00",
-      "son_kontrol": "2026-11-26T05:02:03+00:00",
+      "son_kontrol": "2026-11-26T16:41:31+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -116,14 +116,14 @@
       "url": "https://www.trendyol.com/hyman/erkek-polo-yaka-orme-oversize-kazak-p-857885759",
       "baslik": "HYMAN Erkek Polo Yaka Örme Oversize Kazak",
       "para": "TRY",
-      "fiyat": 666.8,
+      "fiyat": 634.34,
       "ilk_fiyat": 704.82,
       "en_dusuk": 634.34,
       "stokta": true,
       "hedef": null,
       "hedef_bildirildi": false,
       "eklendi": "2026-11-24T11:40:25+00:00",
-      "son_kontrol": "2026-11-26T05:02:04+00:00",
+      "son_kontrol": "2026-11-26T16:41:32+00:00",
       "hata_sayisi": 0,
       "gecmis": [
         [
@@ -137,6 +137,10 @@
         [
           "2026-11-26T05:02:04+00:00",
           666.8
+        ],
+        [
+          "2026-11-26T16:41:32+00:00",
+          634.34
         ]
       ]
     }
